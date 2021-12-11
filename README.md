@@ -1,4 +1,4 @@
-https://images.app.goo.gl/8ARigHANa9vpAg7m7
+https://blog.penjee.com/wp-content/uploads/2015/06/fibonacci-recursion-demonstration-animation-python.gif
 - 👋 Hi, I’m @Affaxed Kiprotich
 - 👀 I am an aspiring web and mobile developer. I am interested in full stack web development
 - 🌱 I’m currently learning JavaScript and It's frameworks at Microverse
