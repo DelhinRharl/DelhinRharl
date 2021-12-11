@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Affaxed 
-- 👀 I’m interested in all code stuff, especially python, javascript and Os development...
-- 🌱 I’m currently learning  Python and Javascript...
-- 💞️ I’m looking to collaborate on a web development project 
-- 📫 How to reach me using delhinrharl@gmail.com..
+https://images.app.goo.gl/8ARigHANa9vpAg7m7
+- 👋 Hi, I’m @Affaxed Kiprotich
+- 👀 I am an aspiring web and mobile developer. I am interested in full stack web development
+- 🌱 I’m currently learning JavaScript and It's frameworks at Microverse
+- 💞️ I’m looking to collaborate on a web development project that is open source
+- 📫 You can reach me through the email in my GitHub account
 
 <!---
 DelhinRharl/DelhinRharl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
