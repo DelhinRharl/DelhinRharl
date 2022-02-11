@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on a web development project that is open source
 - 📫 You can reach me through the email in my GitHub account
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DelhinRharl)](https://github.com/DelhinRharl/github-readme-stats)
 
 <!---
 DelhinRharl/DelhinRharl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
