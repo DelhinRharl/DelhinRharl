@@ -1,5 +1,5 @@
+<img width=500 height=250 src="">
 ## 👋 Hi, I’m @Affaxed Kiprotich
-![image](https://www.canva.com/design/DAE4BKzrkq4/pmcAX89don1IOtBkZ0IZ5g/view?utm_content=DAE4BKzrkq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink.png)
 - 👀 I am an aspiring web and mobile developer. I am interested in full stack web development
 - 🌱 I’m currently learning JavaScript and It's frameworks at Microverse
 - 💞️ I’m looking to collaborate on a web development project that is open source
