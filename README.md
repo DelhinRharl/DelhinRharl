@@ -1,4 +1,4 @@
-<img width=500 height=250 src="">
+<img width=500 height=250 src="https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg">
 ## 👋 Hi, I’m @Affaxed Kiprotich
 - 👀 I am an aspiring web and mobile developer. I am interested in full stack web development
 - 🌱 I’m currently learning JavaScript and It's frameworks at Microverse
